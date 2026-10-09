@@ -1,22 +1,16 @@
 {
   "schema": 1,
   "product": "ViceMC",
-  "version": "2026.10.09.3\u002B060b249",
-  "protocol": 25,
-  "releasedAt": "2026-10-09T17:45:36.4177065+00:00",
-  "notes": "Oprava padani hry pri rychlem letu (chyba pri nahravani chunku), crash dumpy v launcheru. Postupne nicene letadla s odpadavajicimi dily, plamenem a troskami. Protokol 25.",
+  "version": "2026.10.09.4\u002B0c67c71",
+  "protocol": 26,
+  "releasedAt": "2026-10-09T18:19:58.6063291+00:00",
+  "notes": "Realisticka strelba: balistika s padem a odporem, prostrel a odraz, stopovky, dopady, potlaceni, rakety a vybuchy. Oprava padani pri rychlem letu a odpojeni pri teleportu. Postupne nicene letadlo. Protokol 26.",
   "exe": "ViceMC.exe",
-  "launcher": {
-    "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/launcher/ViceMC-Launcher-1.0.1.exe",
-    "sha256": "8465b19cf379b15dd54740e00a24aa67604b732397a02b715bf3548e43a251df",
-    "size": 49470524
-  },
   "servers": [
     {
       "name": "Hynex server",
       "address": "threw-balcony.tun.ply.gg:9669",
-      "protocol": 25
+      "protocol": 26
     }
   ],
   "files": [
@@ -1558,11 +1552,11 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Core.dll",
-      "size": 338432,
-      "sha256": "54d8452e869a5cbf476ebfe4f8f885e4af7eb9172de248d2c37d9e75223ae0b5",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/54d8452e869a5cbf476ebfe4f8f885e4af7eb9172de248d2c37d9e75223ae0b5.gz",
+      "size": 339456,
+      "sha256": "3144c02308f90190f499b4d9a711c119dd020398afaa60690f075e9c44b4d2d6",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3144c02308f90190f499b4d9a711c119dd020398afaa60690f075e9c44b4d2d6.gz",
       "encoding": "gzip",
-      "storedSize": 111144
+      "storedSize": 111483
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.deps.json",
@@ -1574,11 +1568,11 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.dll",
-      "size": 1759232,
-      "sha256": "403f1204b7ad7fe5f912f71d61020b80bd68a2989838f2885812c44a5cd20d2b",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/403f1204b7ad7fe5f912f71d61020b80bd68a2989838f2885812c44a5cd20d2b.gz",
+      "size": 1819136,
+      "sha256": "50d2d19e8a45208b26512fb94428ddffbe71a2235768966640c6712633249c2c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/50d2d19e8a45208b26512fb94428ddffbe71a2235768966640c6712633249c2c.gz",
       "encoding": "gzip",
-      "storedSize": 645121
+      "storedSize": 666790
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.runtimeconfig.json",
@@ -1590,27 +1584,27 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Net.dll",
-      "size": 442880,
-      "sha256": "c383a2b64decda34c6901e83d0bad24db4afd8bddc09d62befdf7dcc464c36ed",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c383a2b64decda34c6901e83d0bad24db4afd8bddc09d62befdf7dcc464c36ed.gz",
+      "size": 451072,
+      "sha256": "4e100d8468250814ca701de219b6e17688410bc8f3e2cbf074099ecb48aed26c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/4e100d8468250814ca701de219b6e17688410bc8f3e2cbf074099ecb48aed26c.gz",
       "encoding": "gzip",
-      "storedSize": 157997
+      "storedSize": 160745
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Session.dll",
-      "size": 696832,
-      "sha256": "1105ae4573217ce7784e68c1e47681de44ad5e053c985d8820e56b6b65cbe434",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1105ae4573217ce7784e68c1e47681de44ad5e053c985d8820e56b6b65cbe434.gz",
+      "size": 749056,
+      "sha256": "fe929da1f9e721c6e4874eae04ce3496e2a303920ce18e32e7f6607eda7bd281",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/fe929da1f9e721c6e4874eae04ce3496e2a303920ce18e32e7f6607eda7bd281.gz",
       "encoding": "gzip",
-      "storedSize": 298568
+      "storedSize": 311025
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Sim.dll",
-      "size": 4191744,
-      "sha256": "87a88327abb57ef458309498ab51d6cfa54323453b416130a37cd3b2e6423bc2",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/87a88327abb57ef458309498ab51d6cfa54323453b416130a37cd3b2e6423bc2.gz",
+      "size": 4303872,
+      "sha256": "e39504c3010f88d6d0fc1947fe0f48bf46980d3b8627ea6307a2709cd760f8fb",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e39504c3010f88d6d0fc1947fe0f48bf46980d3b8627ea6307a2709cd760f8fb.gz",
       "encoding": "gzip",
-      "storedSize": 1176080
+      "storedSize": 1214885
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/WindowsBase.dll",
@@ -1623,8 +1617,8 @@
     {
       "path": "version.txt",
       "size": 21,
-      "sha256": "71dd8ebba8e29bf3461ad1c90cd87f69b3ee5f0b3d781cd364dd4281041fbaed",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/71dd8ebba8e29bf3461ad1c90cd87f69b3ee5f0b3d781cd364dd4281041fbaed"
+      "sha256": "033cfeaed58c6b599126a832ac2d2d4765137604d9a20764a41e755ecf124c53",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/033cfeaed58c6b599126a832ac2d2d4765137604d9a20764a41e755ecf124c53"
     },
     {
       "path": "ViceMC.exe",
@@ -1636,9 +1630,9 @@
     },
     {
       "path": "ViceMC.pck",
-      "size": 67536884,
-      "sha256": "bffb8a144bddf72457de2e096fb98f753b3aacb650cf44d9ef0646c66f61357d",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/bffb8a144bddf72457de2e096fb98f753b3aacb650cf44d9ef0646c66f61357d"
+      "size": 67537604,
+      "sha256": "6dd95ed7397705295f565c1ec70cfdef876cde2ead51480aed43283895959122",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6dd95ed7397705295f565c1ec70cfdef876cde2ead51480aed43283895959122"
     }
   ]
 }
