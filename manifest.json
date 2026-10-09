@@ -1,0 +1,1638 @@
+{
+  "schema": 1,
+  "product": "ViceMC",
+  "version": "2026.10.09\u002B5a3ad89",
+  "protocol": 25,
+  "releasedAt": "2026-10-09T13:27:11.3165003+00:00",
+  "notes": "Nov\u00FD letov\u00FD model a crash fyzika, nov\u00E9 UI a nastaven\u00ED, nov\u00E1 obloha a mraky, invent\u00E1\u0159, ruka hr\u00E1\u010De, \u0159eky a biomy, splajnov\u00E9 silnice (kl\u00E1vesa B), cheat menu (F4). Protokol 25.",
+  "exe": "ViceMC.exe",
+  "servers": [
+    {
+      "name": "Hynex server",
+      "address": "threw-balcony.tun.ply.gg:9669",
+      "protocol": 25
+    }
+  ],
+  "files": [
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/clretwrc.dll",
+      "size": 317736,
+      "sha256": "7a2186201c87bbc597a1b8b26facd88e68f03be4c4a4211fd65cc6595c72e45b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7a2186201c87bbc597a1b8b26facd88e68f03be4c4a4211fd65cc6595c72e45b.gz",
+      "encoding": "gzip",
+      "storedSize": 68565
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/clrgc.dll",
+      "size": 674088,
+      "sha256": "65e2f97d263824bfb9f75f92e66ebd22229aaf3a5faddef9345811d856c8840e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/65e2f97d263824bfb9f75f92e66ebd22229aaf3a5faddef9345811d856c8840e.gz",
+      "encoding": "gzip",
+      "storedSize": 341180
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/clrgcexp.dll",
+      "size": 711464,
+      "sha256": "23a8050ec68542989b6da6cc906a90faf8a14e6416fd2871a260b781b1c374ae",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/23a8050ec68542989b6da6cc906a90faf8a14e6416fd2871a260b781b1c374ae.gz",
+      "encoding": "gzip",
+      "storedSize": 359207
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/clrjit.dll",
+      "size": 2092328,
+      "sha256": "0749d8fc8e944d0576e1bb47120f87add8f875e5cd8968995633063fc79256f6",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0749d8fc8e944d0576e1bb47120f87add8f875e5cd8968995633063fc79256f6.gz",
+      "encoding": "gzip",
+      "storedSize": 1162199
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/coreclr.dll",
+      "size": 4614992,
+      "sha256": "128aee8c62a673d64739e585e3876b61133571cec83a46240a62581d5465639b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/128aee8c62a673d64739e585e3876b61133571cec83a46240a62581d5465639b.gz",
+      "encoding": "gzip",
+      "storedSize": 2383630
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/createdump.exe",
+      "size": 71552,
+      "sha256": "315307159925d33eb604186a512901d080ecfc4cd8b8198030a7d398c6af2b0b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/315307159925d33eb604186a512901d080ecfc4cd8b8198030a7d398c6af2b0b.gz",
+      "encoding": "gzip",
+      "storedSize": 35011
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/e_sqlite3.dll",
+      "size": 1978880,
+      "sha256": "b7385d722c83fb52142a00477a726723745916d22a555711ee89834c1111fb2e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b7385d722c83fb52142a00477a726723745916d22a555711ee89834c1111fb2e.gz",
+      "encoding": "gzip",
+      "storedSize": 1103629
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/GodotSharp.dll",
+      "size": 5928960,
+      "sha256": "2afe2686aacfefac36da6601b59aeb05e560f06e4970cd5036100acd2ca4249d",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2afe2686aacfefac36da6601b59aeb05e560f06e4970cd5036100acd2ca4249d.gz",
+      "encoding": "gzip",
+      "storedSize": 1558197
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/hostfxr.dll",
+      "size": 379688,
+      "sha256": "838591885c5396fb0588a3aedc2f3e841d3afc67570868b1bce615264005a44c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/838591885c5396fb0588a3aedc2f3e841d3afc67570868b1bce615264005a44c.gz",
+      "encoding": "gzip",
+      "storedSize": 177366
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/hostpolicy.dll",
+      "size": 378664,
+      "sha256": "e92a2e71eeeaf7c574e905935b3e3724ef29bade44317659dbe06f505e99dbe0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e92a2e71eeeaf7c574e905935b3e3724ef29bade44317659dbe06f505e99dbe0.gz",
+      "encoding": "gzip",
+      "storedSize": 179310
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.CSharp.dll",
+      "size": 980776,
+      "sha256": "2000912f2fc52e0c64ed893d79f4e7b143502540fb7170b5ae5fcea7099ba431",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2000912f2fc52e0c64ed893d79f4e7b143502540fb7170b5ae5fcea7099ba431.gz",
+      "encoding": "gzip",
+      "storedSize": 491685
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.Data.Sqlite.dll",
+      "size": 177464,
+      "sha256": "b98d957462be432895b00dccca012d3c127e118d3d4262418014b92c7bbd66cf",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b98d957462be432895b00dccca012d3c127e118d3d4262418014b92c7bbd66cf.gz",
+      "encoding": "gzip",
+      "storedSize": 74715
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.DiaSymReader.Native.amd64.dll",
+      "size": 2377016,
+      "sha256": "70e4b89978ce57ef87b28f4921f3140c383b04aa96e7f3bdb3c4ebb898fd8a72",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/70e4b89978ce57ef87b28f4921f3140c383b04aa96e7f3bdb3c4ebb898fd8a72.gz",
+      "encoding": "gzip",
+      "storedSize": 1097259
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.VisualBasic.Core.dll",
+      "size": 1193768,
+      "sha256": "2666b24eb6e295476b44abd057ea250fd5957db9c1c7adee6a223a747ddfe3d2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2666b24eb6e295476b44abd057ea250fd5957db9c1c7adee6a223a747ddfe3d2.gz",
+      "encoding": "gzip",
+      "storedSize": 589852
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.VisualBasic.dll",
+      "size": 17192,
+      "sha256": "e192508adde6a758138a5a8e28998dccb64e7f45eaf30d8ab3564f87749028b1",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e192508adde6a758138a5a8e28998dccb64e7f45eaf30d8ab3564f87749028b1.gz",
+      "encoding": "gzip",
+      "storedSize": 10060
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.Win32.Primitives.dll",
+      "size": 15656,
+      "sha256": "6c21472b0ae2f9b484a97614fad5485a22f18f9f19ee1adb9ceb3ed8ddb072d7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6c21472b0ae2f9b484a97614fad5485a22f18f9f19ee1adb9ceb3ed8ddb072d7.gz",
+      "encoding": "gzip",
+      "storedSize": 9330
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/Microsoft.Win32.Registry.dll",
+      "size": 116520,
+      "sha256": "76849cfde4369f3ae93e28261fe5e1010dbf1332f7da95c98543cba9b03961c0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/76849cfde4369f3ae93e28261fe5e1010dbf1332f7da95c98543cba9b03961c0.gz",
+      "encoding": "gzip",
+      "storedSize": 54398
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/mscordaccore.dll",
+      "size": 1356640,
+      "sha256": "86c29a7b945525135de16c3dcb71e3b8517848c459cbb21395b352d4e6bba09c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/86c29a7b945525135de16c3dcb71e3b8517848c459cbb21395b352d4e6bba09c.gz",
+      "encoding": "gzip",
+      "storedSize": 609587
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/mscordaccore_amd64_amd64_10.0.1226.42308.dll",
+      "size": 1356640,
+      "sha256": "86c29a7b945525135de16c3dcb71e3b8517848c459cbb21395b352d4e6bba09c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/86c29a7b945525135de16c3dcb71e3b8517848c459cbb21395b352d4e6bba09c.gz",
+      "encoding": "gzip",
+      "storedSize": 609587
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/mscordbi.dll",
+      "size": 1237888,
+      "sha256": "753e92805f3886221f56dcfc07191ad7ee44235bf689db0490bdf777f25e9175",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/753e92805f3886221f56dcfc07191ad7ee44235bf689db0490bdf777f25e9175.gz",
+      "encoding": "gzip",
+      "storedSize": 530543
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/mscorlib.dll",
+      "size": 59728,
+      "sha256": "b698595367a7d4fa57ccacab73751fde0bb8f2415345c62cdfe7ced890da2c0c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b698595367a7d4fa57ccacab73751fde0bb8f2415345c62cdfe7ced890da2c0c.gz",
+      "encoding": "gzip",
+      "storedSize": 22430
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/mscorrc.dll",
+      "size": 133968,
+      "sha256": "f0d8c7491d4659a4c5a4c00615255a60e05634f311162c2775a51e03c070c9e0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f0d8c7491d4659a4c5a4c00615255a60e05634f311162c2775a51e03c070c9e0.gz",
+      "encoding": "gzip",
+      "storedSize": 30291
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/msquic.dll",
+      "size": 536344,
+      "sha256": "b7158d427b01c70483bb3d80c5211e387dd98e9471c8a70e4484d449de9157e8",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b7158d427b01c70483bb3d80c5211e387dd98e9471c8a70e4484d449de9157e8.gz",
+      "encoding": "gzip",
+      "storedSize": 269879
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/netstandard.dll",
+      "size": 100648,
+      "sha256": "3dc81dbc9dacd28261632c94410859eda24c2db50cd6c14309cbb2a434b50c57",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3dc81dbc9dacd28261632c94410859eda24c2db50cd6c14309cbb2a434b50c57.gz",
+      "encoding": "gzip",
+      "storedSize": 33399
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/SQLitePCLRaw.batteries_v2.dll",
+      "size": 5120,
+      "sha256": "815ce410c9eab531dd219318e3ba16c5e38e83d361cfbbdbb4bbca222c497b0b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/815ce410c9eab531dd219318e3ba16c5e38e83d361cfbbdbb4bbca222c497b0b.gz",
+      "encoding": "gzip",
+      "storedSize": 2223
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/SQLitePCLRaw.core.dll",
+      "size": 51200,
+      "sha256": "af340ac9eb9195795660d7fc1114f486b6ab63998f33176e2f24c8e0acb9aa84",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/af340ac9eb9195795660d7fc1114f486b6ab63998f33176e2f24c8e0acb9aa84.gz",
+      "encoding": "gzip",
+      "storedSize": 20951
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/SQLitePCLRaw.provider.e_sqlite3.dll",
+      "size": 36864,
+      "sha256": "df996bcae63c2cabcfe8d4b9c5110eb39a2a4706178b07d875665391c6eb3995",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/df996bcae63c2cabcfe8d4b9c5110eb39a2a4706178b07d875665391c6eb3995.gz",
+      "encoding": "gzip",
+      "storedSize": 14774
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.AppContext.dll",
+      "size": 15144,
+      "sha256": "d9dd9fa44e019f27172d6b2662e2b6038f48c270912ac8aae53d4d909da7e9be",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d9dd9fa44e019f27172d6b2662e2b6038f48c270912ac8aae53d4d909da7e9be.gz",
+      "encoding": "gzip",
+      "storedSize": 9220
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Buffers.dll",
+      "size": 15144,
+      "sha256": "a1a35f5524e2f831d08ca55f702fbddcb8c6dfecd264f0f563d81a1c8b8280bd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a1a35f5524e2f831d08ca55f702fbddcb8c6dfecd264f0f563d81a1c8b8280bd.gz",
+      "encoding": "gzip",
+      "storedSize": 9227
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Collections.Concurrent.dll",
+      "size": 231248,
+      "sha256": "082f4bc0da1141eb65111b6da633d75624adfb7bb067d7ee90c5622c8b30885b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/082f4bc0da1141eb65111b6da633d75624adfb7bb067d7ee90c5622c8b30885b.gz",
+      "encoding": "gzip",
+      "storedSize": 116635
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Collections.dll",
+      "size": 296744,
+      "sha256": "df6f2037eabee28100184e92f7536427ba2f086c1110629804d466b124bc4d54",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/df6f2037eabee28100184e92f7536427ba2f086c1110629804d466b124bc4d54.gz",
+      "encoding": "gzip",
+      "storedSize": 142225
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Collections.Immutable.dll",
+      "size": 976680,
+      "sha256": "b527dd7b2beb82c22aa39787298cbeb33f3eac9eb9b83a0f0271353421db28db",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b527dd7b2beb82c22aa39787298cbeb33f3eac9eb9b83a0f0271353421db28db.gz",
+      "encoding": "gzip",
+      "storedSize": 438002
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Collections.NonGeneric.dll",
+      "size": 104232,
+      "sha256": "aa4d5216d066c91cb489f63c6cbfcaf1f47b6e74e070db45639d3460454fc60b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/aa4d5216d066c91cb489f63c6cbfcaf1f47b6e74e070db45639d3460454fc60b.gz",
+      "encoding": "gzip",
+      "storedSize": 45243
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Collections.Specialized.dll",
+      "size": 104272,
+      "sha256": "e31af1f866e880844e027be59f545b9a6b34108e0b0680ebe3fbc19a53070819",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e31af1f866e880844e027be59f545b9a6b34108e0b0680ebe3fbc19a53070819.gz",
+      "encoding": "gzip",
+      "storedSize": 48483
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ComponentModel.Annotations.dll",
+      "size": 198480,
+      "sha256": "e3be2d35d81e6475c64110cfc099895b71df22c8b46a18c2d7c76a913b8ba903",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e3be2d35d81e6475c64110cfc099895b71df22c8b46a18c2d7c76a913b8ba903.gz",
+      "encoding": "gzip",
+      "storedSize": 90448
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ComponentModel.DataAnnotations.dll",
+      "size": 16720,
+      "sha256": "d40e8c7062e6b9ce11ba83eab3d26be0eec8066b99970ea88b8e87fb75f411bd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d40e8c7062e6b9ce11ba83eab3d26be0eec8066b99970ea88b8e87fb75f411bd.gz",
+      "encoding": "gzip",
+      "storedSize": 9765
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ComponentModel.dll",
+      "size": 30544,
+      "sha256": "e3b6f75864ee944898540937c1f300e04f44a1b2729516f0bbf948589a8b14b2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e3b6f75864ee944898540937c1f300e04f44a1b2729516f0bbf948589a8b14b2.gz",
+      "encoding": "gzip",
+      "storedSize": 10304
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ComponentModel.EventBasedAsync.dll",
+      "size": 46888,
+      "sha256": "cc84fe814ef5e58271d83193e328f8ec220efd4696d90af9a7c4690c10451495",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/cc84fe814ef5e58271d83193e328f8ec220efd4696d90af9a7c4690c10451495.gz",
+      "encoding": "gzip",
+      "storedSize": 19745
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ComponentModel.Primitives.dll",
+      "size": 79656,
+      "sha256": "1e2451184c287409ea25acde3c90f25950bf34d16458a6e52a94ca4292434f62",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1e2451184c287409ea25acde3c90f25950bf34d16458a6e52a94ca4292434f62.gz",
+      "encoding": "gzip",
+      "storedSize": 35786
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ComponentModel.TypeConverter.dll",
+      "size": 767784,
+      "sha256": "10dae312a6697718f8ce3dfcdb17d6ae4b74687c765d74d50de8a8e69e08f5e7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/10dae312a6697718f8ce3dfcdb17d6ae4b74687c765d74d50de8a8e69e08f5e7.gz",
+      "encoding": "gzip",
+      "storedSize": 356911
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Configuration.dll",
+      "size": 19240,
+      "sha256": "3952a72e1f18774f16952b46c20e80ed2bc601a06eca01f33fa924c738022a9c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3952a72e1f18774f16952b46c20e80ed2bc601a06eca01f33fa924c738022a9c.gz",
+      "encoding": "gzip",
+      "storedSize": 10321
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Console.dll",
+      "size": 169808,
+      "sha256": "3b85daf02a3d9ed99b84bb1c639fe8b1ced46d8d157fa56f525f6b8c5be43b3e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3b85daf02a3d9ed99b84bb1c639fe8b1ced46d8d157fa56f525f6b8c5be43b3e.gz",
+      "encoding": "gzip",
+      "storedSize": 78729
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Core.dll",
+      "size": 23336,
+      "sha256": "ac23faf1b37fa49f1b117baad951a65609e799a6e669a6df06d3552677e0c086",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ac23faf1b37fa49f1b117baad951a65609e799a6e669a6df06d3552677e0c086.gz",
+      "encoding": "gzip",
+      "storedSize": 11862
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Data.Common.dll",
+      "size": 2770728,
+      "sha256": "66bdd62047ee460e2ce2c33d15dd1173ac97997b2745864a905179594f821acc",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/66bdd62047ee460e2ce2c33d15dd1173ac97997b2745864a905179594f821acc.gz",
+      "encoding": "gzip",
+      "storedSize": 1317936
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Data.DataSetExtensions.dll",
+      "size": 15656,
+      "sha256": "aeeae0755c8c7f6747765cdf82fa43182e320e97f2035e3a0a19f21905e6c113",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/aeeae0755c8c7f6747765cdf82fa43182e320e97f2035e3a0a19f21905e6c113.gz",
+      "encoding": "gzip",
+      "storedSize": 9217
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Data.dll",
+      "size": 25424,
+      "sha256": "49f52958a2a6e461d0fd7a47e54a199eb263c69ecfcc0fc684b73b5918ebf466",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/49f52958a2a6e461d0fd7a47e54a199eb263c69ecfcc0fc684b73b5918ebf466.gz",
+      "encoding": "gzip",
+      "storedSize": 12397
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.Contracts.dll",
+      "size": 16208,
+      "sha256": "6c05cacd9b61b08ae75f2d783cc402b0b5fc848e3d68c29c10b93897cc083e8b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6c05cacd9b61b08ae75f2d783cc402b0b5fc848e3d68c29c10b93897cc083e8b.gz",
+      "encoding": "gzip",
+      "storedSize": 9545
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.Debug.dll",
+      "size": 15656,
+      "sha256": "8b160ffe7518588bf64e13c01c6dcb2ef504d64f38bbf0f198d31e7b698db92c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8b160ffe7518588bf64e13c01c6dcb2ef504d64f38bbf0f198d31e7b698db92c.gz",
+      "encoding": "gzip",
+      "storedSize": 9412
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.DiagnosticSource.dll",
+      "size": 501544,
+      "sha256": "6267c1bd1bdf2bdd4b5748b885b0adcda10f18697adfea8488a19a009ad44fdb",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6267c1bd1bdf2bdd4b5748b885b0adcda10f18697adfea8488a19a009ad44fdb.gz",
+      "encoding": "gzip",
+      "storedSize": 243710
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.FileVersionInfo.dll",
+      "size": 46928,
+      "sha256": "e94f158142e93834dec3100bde3313935517d549ff36c65819a06d3104dec427",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e94f158142e93834dec3100bde3313935517d549ff36c65819a06d3104dec427.gz",
+      "encoding": "gzip",
+      "storedSize": 18526
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.Process.dll",
+      "size": 329552,
+      "sha256": "51a57fbe918f8b68930c090792b718fc0850ea12da869d50b97a3796af29a740",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/51a57fbe918f8b68930c090792b718fc0850ea12da869d50b97a3796af29a740.gz",
+      "encoding": "gzip",
+      "storedSize": 159852
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.StackTrace.dll",
+      "size": 46888,
+      "sha256": "8f6397c1e2ba9b8b8bfa317962151b5035049ce8d6b3575e5027a0d0eeacc797",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8f6397c1e2ba9b8b8bfa317962151b5035049ce8d6b3575e5027a0d0eeacc797.gz",
+      "encoding": "gzip",
+      "storedSize": 20261
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.TextWriterTraceListener.dll",
+      "size": 67368,
+      "sha256": "1bf165cee916a854e1150f489e4348ce94755359d5fcdcc0bc2bbbe6a7102bdd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1bf165cee916a854e1150f489e4348ce94755359d5fcdcc0bc2bbbe6a7102bdd.gz",
+      "encoding": "gzip",
+      "storedSize": 32168
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.Tools.dll",
+      "size": 15144,
+      "sha256": "841c5e2b6c171fa9aaff0fc6295f3fbc93dc5dcab44118b62f1c942bb674aff2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/841c5e2b6c171fa9aaff0fc6295f3fbc93dc5dcab44118b62f1c942bb674aff2.gz",
+      "encoding": "gzip",
+      "storedSize": 9317
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.TraceSource.dll",
+      "size": 141096,
+      "sha256": "8445c7f1bbaae6cffde60e2c9a8753faaa5100255fbe31d0a1927d9d9bb7f194",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8445c7f1bbaae6cffde60e2c9a8753faaa5100255fbe31d0a1927d9d9bb7f194.gz",
+      "encoding": "gzip",
+      "storedSize": 66027
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Diagnostics.Tracing.dll",
+      "size": 16208,
+      "sha256": "9563d5eec35f94d13a5e62eaa9535dbe0e9ea474f055da132fb8af46b0b01263",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/9563d5eec35f94d13a5e62eaa9535dbe0e9ea474f055da132fb8af46b0b01263.gz",
+      "encoding": "gzip",
+      "storedSize": 9664
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.dll",
+      "size": 50472,
+      "sha256": "ef135f0bda0c41e142fdbd67b93e5aa7911916cb250f7df302f4151a3bbfa380",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ef135f0bda0c41e142fdbd67b93e5aa7911916cb250f7df302f4151a3bbfa380.gz",
+      "encoding": "gzip",
+      "storedSize": 19474
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Drawing.dll",
+      "size": 20304,
+      "sha256": "585a8da9952d715f8de7a7b1879b59d68ff8608b92f6ed1c5f0e1d251180d3c6",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/585a8da9952d715f8de7a7b1879b59d68ff8608b92f6ed1c5f0e1d251180d3c6.gz",
+      "encoding": "gzip",
+      "storedSize": 11137
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Drawing.Primitives.dll",
+      "size": 132944,
+      "sha256": "17585b32ca91bac8ccff2ef1c6ddf62ee9ea5efc552928c3a9d1b868394246e9",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/17585b32ca91bac8ccff2ef1c6ddf62ee9ea5efc552928c3a9d1b868394246e9.gz",
+      "encoding": "gzip",
+      "storedSize": 60876
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Dynamic.Runtime.dll",
+      "size": 16168,
+      "sha256": "c0eac30c791db8c1a2b50b61c50d029f4ddd0eadfdd35433745001688a3e7466",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c0eac30c791db8c1a2b50b61c50d029f4ddd0eadfdd35433745001688a3e7466.gz",
+      "encoding": "gzip",
+      "storedSize": 9579
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Formats.Asn1.dll",
+      "size": 239440,
+      "sha256": "a163fe5f96d1689f1bc1ac531b38c3aba95792ac7dd52231d325d658947fbcfd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a163fe5f96d1689f1bc1ac531b38c3aba95792ac7dd52231d325d658947fbcfd.gz",
+      "encoding": "gzip",
+      "storedSize": 117688
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Formats.Tar.dll",
+      "size": 272168,
+      "sha256": "44c9984f269a158915195fd32007f22c3bb692dcfeb933cda8ea45a3ac6cd1ce",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/44c9984f269a158915195fd32007f22c3bb692dcfeb933cda8ea45a3ac6cd1ce.gz",
+      "encoding": "gzip",
+      "storedSize": 133209
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Globalization.Calendars.dll",
+      "size": 15656,
+      "sha256": "e0f3f3f6e4acc7b6755782fed5cb075ecf70beee4fc5d404579ae99bc0883ef2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e0f3f3f6e4acc7b6755782fed5cb075ecf70beee4fc5d404579ae99bc0883ef2.gz",
+      "encoding": "gzip",
+      "storedSize": 9420
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Globalization.dll",
+      "size": 15696,
+      "sha256": "66902cffd057673b4b77aa68faf80d33ffa4c94510e61db2a067943cc53b7702",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/66902cffd057673b4b77aa68faf80d33ffa4c94510e61db2a067943cc53b7702.gz",
+      "encoding": "gzip",
+      "storedSize": 9430
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Globalization.Extensions.dll",
+      "size": 15144,
+      "sha256": "be0390557cc72078a7217cf94fd44b9ab66aa30838c00a92aa78c62469c44aa0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/be0390557cc72078a7217cf94fd44b9ab66aa30838c00a92aa78c62469c44aa0.gz",
+      "encoding": "gzip",
+      "storedSize": 9309
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Compression.Brotli.dll",
+      "size": 83752,
+      "sha256": "0a59a95787ee15784d73079fdd5dc555b78659a6c560b6cbbf0d7452e638df89",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0a59a95787ee15784d73079fdd5dc555b78659a6c560b6cbbf0d7452e638df89.gz",
+      "encoding": "gzip",
+      "storedSize": 39811
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Compression.dll",
+      "size": 419624,
+      "sha256": "c942747f84b730887090f5e0cf86d164c0ee402e524dce2750e06a6df48513fb",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c942747f84b730887090f5e0cf86d164c0ee402e524dce2750e06a6df48513fb.gz",
+      "encoding": "gzip",
+      "storedSize": 205433
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Compression.FileSystem.dll",
+      "size": 15184,
+      "sha256": "4aeec2c0189f73ba8122f05c0d759008ddae1a8873b167cc8a558d53f2af80e1",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/4aeec2c0189f73ba8122f05c0d759008ddae1a8873b167cc8a558d53f2af80e1.gz",
+      "encoding": "gzip",
+      "storedSize": 9156
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Compression.Native.dll",
+      "size": 937256,
+      "sha256": "4d174b78aa8b3516c7e3cec0355dfe9ae570894055c377d2e5565d077a9a7a1e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/4d174b78aa8b3516c7e3cec0355dfe9ae570894055c377d2e5565d077a9a7a1e.gz",
+      "encoding": "gzip",
+      "storedSize": 423935
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Compression.ZipFile.dll",
+      "size": 100176,
+      "sha256": "2da76eb281740be485b5637da8c60fe0ce12bc2848d1a1a81ce144fa74313e18",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2da76eb281740be485b5637da8c60fe0ce12bc2848d1a1a81ce144fa74313e18.gz",
+      "encoding": "gzip",
+      "storedSize": 47136
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.dll",
+      "size": 15656,
+      "sha256": "388400ccb189b819d6ec5f1ef70710a39641d93ed5b870fc9324866b75dfb78b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/388400ccb189b819d6ec5f1ef70710a39641d93ed5b870fc9324866b75dfb78b.gz",
+      "encoding": "gzip",
+      "storedSize": 9406
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.FileSystem.AccessControl.dll",
+      "size": 104232,
+      "sha256": "f7f9ed6cdab35274711e9345266784ec332ae8040db184d141c70e7941fbbec5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f7f9ed6cdab35274711e9345266784ec332ae8040db184d141c70e7941fbbec5.gz",
+      "encoding": "gzip",
+      "storedSize": 48538
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.FileSystem.dll",
+      "size": 15656,
+      "sha256": "c251f33b29382c47b773d907463edd9fe978a06e39efd5670ef3b3b1d4f8c2b7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c251f33b29382c47b773d907463edd9fe978a06e39efd5670ef3b3b1d4f8c2b7.gz",
+      "encoding": "gzip",
+      "storedSize": 9439
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.FileSystem.DriveInfo.dll",
+      "size": 55120,
+      "sha256": "0a7f3dd2fb6147a3fc046aeac8501d764effe5a3d8cfa56d2b244aa50b874b98",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0a7f3dd2fb6147a3fc046aeac8501d764effe5a3d8cfa56d2b244aa50b874b98.gz",
+      "encoding": "gzip",
+      "storedSize": 23539
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.FileSystem.Primitives.dll",
+      "size": 15144,
+      "sha256": "d3b21b8b38e48c6b4d1cb5cfe9adfe4abad7b3353601febd3c7e4027f9ef9c6b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d3b21b8b38e48c6b4d1cb5cfe9adfe4abad7b3353601febd3c7e4027f9ef9c6b.gz",
+      "encoding": "gzip",
+      "storedSize": 9312
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.FileSystem.Watcher.dll",
+      "size": 87848,
+      "sha256": "8ab1704e4bd171056ec5a11e886d5199d05a641c6d0233c53d4766bf30328dd3",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8ab1704e4bd171056ec5a11e886d5199d05a641c6d0233c53d4766bf30328dd3.gz",
+      "encoding": "gzip",
+      "storedSize": 41727
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.IsolatedStorage.dll",
+      "size": 87848,
+      "sha256": "2272a8bde18ed0e7c9e54ece9b849b9be76c90b978909d2b2fc94cf0ccbce427",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2272a8bde18ed0e7c9e54ece9b849b9be76c90b978909d2b2fc94cf0ccbce427.gz",
+      "encoding": "gzip",
+      "storedSize": 41276
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.MemoryMappedFiles.dll",
+      "size": 83752,
+      "sha256": "6e8b281ecb2f0f5e7aad3980f61d8812caa6b37884737f542f95410a76663e0e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6e8b281ecb2f0f5e7aad3980f61d8812caa6b37884737f542f95410a76663e0e.gz",
+      "encoding": "gzip",
+      "storedSize": 38096
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Pipelines.dll",
+      "size": 190248,
+      "sha256": "ee9f0fd6c659f50799afd103c6ed9c5e408967e28dfa059bddf4b0a3fd2557dd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ee9f0fd6c659f50799afd103c6ed9c5e408967e28dfa059bddf4b0a3fd2557dd.gz",
+      "encoding": "gzip",
+      "storedSize": 96480
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Pipes.AccessControl.dll",
+      "size": 15656,
+      "sha256": "1102f25a6e88f2fae81e4cd3628d8ef826f847b9c9b6a4d32ff8b37e0300da35",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1102f25a6e88f2fae81e4cd3628d8ef826f847b9c9b6a4d32ff8b37e0300da35.gz",
+      "encoding": "gzip",
+      "storedSize": 9407
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.Pipes.dll",
+      "size": 165712,
+      "sha256": "3804f9992861122e60990b0765d0b50b33cdc2e4d89d26d9dbf8641d1d0134a2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3804f9992861122e60990b0765d0b50b33cdc2e4d89d26d9dbf8641d1d0134a2.gz",
+      "encoding": "gzip",
+      "storedSize": 78986
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.IO.UnmanagedMemoryStream.dll",
+      "size": 15696,
+      "sha256": "ad6a5f859589e1951103a00f45566da079cf87bd8b03f0c6ad985a6f39f19c5a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ad6a5f859589e1951103a00f45566da079cf87bd8b03f0c6ad985a6f39f19c5a.gz",
+      "encoding": "gzip",
+      "storedSize": 9359
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Linq.AsyncEnumerable.dll",
+      "size": 1292072,
+      "sha256": "925208e8ac40ac3f7b988aba6ccbbb58adac38ad1876a7d97ee137be6c21a653",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/925208e8ac40ac3f7b988aba6ccbbb58adac38ad1876a7d97ee137be6c21a653.gz",
+      "encoding": "gzip",
+      "storedSize": 486942
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Linq.dll",
+      "size": 698192,
+      "sha256": "284d38945b6e92e847129bd28af458b19818d0f2181f79882888ab2003f4c519",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/284d38945b6e92e847129bd28af458b19818d0f2181f79882888ab2003f4c519.gz",
+      "encoding": "gzip",
+      "storedSize": 315675
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Linq.Expressions.dll",
+      "size": 3639080,
+      "sha256": "8830f4a6a6982f53cfbb54f992858ee36b4994a6ff6e6078c39627e77bef282f",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8830f4a6a6982f53cfbb54f992858ee36b4994a6ff6e6078c39627e77bef282f.gz",
+      "encoding": "gzip",
+      "storedSize": 1279027
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Linq.Parallel.dll",
+      "size": 775976,
+      "sha256": "aa6068e3d8f6b2e492cc63dcaad6b02942edbae445cb2b88c24f1850b25c49f5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/aa6068e3d8f6b2e492cc63dcaad6b02942edbae445cb2b88c24f1850b25c49f5.gz",
+      "encoding": "gzip",
+      "storedSize": 332516
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Linq.Queryable.dll",
+      "size": 182056,
+      "sha256": "b3b3a9c1b87a51dacd46a3f9ec392c5d05e449152d44d6bd495df0994350e2fa",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b3b3a9c1b87a51dacd46a3f9ec392c5d05e449152d44d6bd495df0994350e2fa.gz",
+      "encoding": "gzip",
+      "storedSize": 67137
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Memory.dll",
+      "size": 161576,
+      "sha256": "f8f9d38efd6b0de30954d6bf1f353e9617bfb36d3d245c013a3b12be9f6bd88a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f8f9d38efd6b0de30954d6bf1f353e9617bfb36d3d245c013a3b12be9f6bd88a.gz",
+      "encoding": "gzip",
+      "storedSize": 77775
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.dll",
+      "size": 17192,
+      "sha256": "481b38c912f8779b3510cd00f079e45096ea22b6defdaab66780d5ac3ae6986a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/481b38c912f8779b3510cd00f079e45096ea22b6defdaab66780d5ac3ae6986a.gz",
+      "encoding": "gzip",
+      "storedSize": 9927
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Http.dll",
+      "size": 1746768,
+      "sha256": "b98ed0cb80dd54c33fc049f33af5448710752155bbd5cc8cbcd932e01f066801",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b98ed0cb80dd54c33fc049f33af5448710752155bbd5cc8cbcd932e01f066801.gz",
+      "encoding": "gzip",
+      "storedSize": 841850
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Http.Json.dll",
+      "size": 128848,
+      "sha256": "a9fe81ba3c048f9977e0099800eefd570a49be723c555725da57ba797c92b4e0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a9fe81ba3c048f9977e0099800eefd570a49be723c555725da57ba797c92b4e0.gz",
+      "encoding": "gzip",
+      "storedSize": 58962
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.HttpListener.dll",
+      "size": 534312,
+      "sha256": "3dfe11fb30c5f84c911d9562be6c2037113cd8976ef2def3550ac415ae58955b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3dfe11fb30c5f84c911d9562be6c2037113cd8976ef2def3550ac415ae58955b.gz",
+      "encoding": "gzip",
+      "storedSize": 267406
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Mail.dll",
+      "size": 481064,
+      "sha256": "b585a55ee67c80d7f02a84d50d626d279c7aa77fd3e38206b434bd20c181eedc",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b585a55ee67c80d7f02a84d50d626d279c7aa77fd3e38206b434bd20c181eedc.gz",
+      "encoding": "gzip",
+      "storedSize": 226374
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.NameResolution.dll",
+      "size": 124712,
+      "sha256": "e786c0940f5322f0ad6e8e34e7b582e5b050df0fb2230329325307e61bfd994c",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e786c0940f5322f0ad6e8e34e7b582e5b050df0fb2230329325307e61bfd994c.gz",
+      "encoding": "gzip",
+      "storedSize": 62460
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.NetworkInformation.dll",
+      "size": 157520,
+      "sha256": "7e8791833eb2d0aea77b119fed3cab8bf501f6a553155cc1c4e5b1c02f65593b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7e8791833eb2d0aea77b119fed3cab8bf501f6a553155cc1c4e5b1c02f65593b.gz",
+      "encoding": "gzip",
+      "storedSize": 74572
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Ping.dll",
+      "size": 91984,
+      "sha256": "06bb307343db955a312634d00ba5e097cf5168a901284437592c28d780804e33",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/06bb307343db955a312634d00ba5e097cf5168a901284437592c28d780804e33.gz",
+      "encoding": "gzip",
+      "storedSize": 45869
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Primitives.dll",
+      "size": 210728,
+      "sha256": "4dbb41a178ef013a898327152eccd146228dd2eb83859b9bb36078333b41f0f1",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/4dbb41a178ef013a898327152eccd146228dd2eb83859b9bb36078333b41f0f1.gz",
+      "encoding": "gzip",
+      "storedSize": 107923
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Quic.dll",
+      "size": 358224,
+      "sha256": "af5b52cdee62d014af677c411530a3fde5c1c368adecb8f83dcfe9246e8bbe73",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/af5b52cdee62d014af677c411530a3fde5c1c368adecb8f83dcfe9246e8bbe73.gz",
+      "encoding": "gzip",
+      "storedSize": 173396
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Requests.dll",
+      "size": 374568,
+      "sha256": "ed82d9d0b7942b2b02c5744a4591fbe2316879618adfc5660c9f111f814155f2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ed82d9d0b7942b2b02c5744a4591fbe2316879618adfc5660c9f111f814155f2.gz",
+      "encoding": "gzip",
+      "storedSize": 188190
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Security.dll",
+      "size": 665424,
+      "sha256": "a78bd713e807729f15b0e085c67fd6cbfefa85736a2618512d4ff1212759eba5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a78bd713e807729f15b0e085c67fd6cbfefa85736a2618512d4ff1212759eba5.gz",
+      "encoding": "gzip",
+      "storedSize": 318986
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.ServerSentEvents.dll",
+      "size": 83752,
+      "sha256": "c0b1944020d0e5688b90fba9f29209e367674e29d2020f700c302994d5417eda",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c0b1944020d0e5688b90fba9f29209e367674e29d2020f700c302994d5417eda.gz",
+      "encoding": "gzip",
+      "storedSize": 40952
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.ServicePoint.dll",
+      "size": 15144,
+      "sha256": "84fa83cd96e62fda02991b8a8e99fa1c7b3ac08807b04f7486a896cfe6b4a760",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/84fa83cd96e62fda02991b8a8e99fa1c7b3ac08807b04f7486a896cfe6b4a760.gz",
+      "encoding": "gzip",
+      "storedSize": 9303
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.Sockets.dll",
+      "size": 530216,
+      "sha256": "645c56d637ce15976998119e50722a911315682ce141b4aab98874ce1b063f3a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/645c56d637ce15976998119e50722a911315682ce141b4aab98874ce1b063f3a.gz",
+      "encoding": "gzip",
+      "storedSize": 257715
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.WebClient.dll",
+      "size": 165672,
+      "sha256": "defa7bbf90c77ed01d6add53f678e4adfbcf97f3b1152affec06e652d327f1a2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/defa7bbf90c77ed01d6add53f678e4adfbcf97f3b1152affec06e652d327f1a2.gz",
+      "encoding": "gzip",
+      "storedSize": 78572
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.WebHeaderCollection.dll",
+      "size": 63312,
+      "sha256": "74d66f776b4c15936a7b887f47ceb8bf277dbe82e71a78dd3ea5d02502b081e7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/74d66f776b4c15936a7b887f47ceb8bf277dbe82e71a78dd3ea5d02502b081e7.gz",
+      "encoding": "gzip",
+      "storedSize": 28533
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.WebProxy.dll",
+      "size": 42832,
+      "sha256": "408e3daabb3f42b4f1b72a1e1def38f12ba58eb9d23dca620086819cf7484195",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/408e3daabb3f42b4f1b72a1e1def38f12ba58eb9d23dca620086819cf7484195.gz",
+      "encoding": "gzip",
+      "storedSize": 19272
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.WebSockets.Client.dll",
+      "size": 104232,
+      "sha256": "f308a69b9ee1ac982f53d1d94374f4972a7e3c700742901ff7c2bbfb570019d2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f308a69b9ee1ac982f53d1d94374f4972a7e3c700742901ff7c2bbfb570019d2.gz",
+      "encoding": "gzip",
+      "storedSize": 48943
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Net.WebSockets.dll",
+      "size": 243496,
+      "sha256": "c014a074d408c71011e26eac69be85003a852cfe115e8608bb5d4fd70536eb2e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c014a074d408c71011e26eac69be85003a852cfe115e8608bb5d4fd70536eb2e.gz",
+      "encoding": "gzip",
+      "storedSize": 120879
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Numerics.dll",
+      "size": 15184,
+      "sha256": "35adc9360421b3b7a3d50399cb2c651c160158d7e8c302907acbce5f61f4a4f7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/35adc9360421b3b7a3d50399cb2c651c160158d7e8c302907acbce5f61f4a4f7.gz",
+      "encoding": "gzip",
+      "storedSize": 9189
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Numerics.Vectors.dll",
+      "size": 15656,
+      "sha256": "a9a980ee33ed0c798a5e1960c4557521f465ac9e0987dfd2c3049d53b1f2fa5a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a9a980ee33ed0c798a5e1960c4557521f465ac9e0987dfd2c3049d53b1f2fa5a.gz",
+      "encoding": "gzip",
+      "storedSize": 9392
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ObjectModel.dll",
+      "size": 79656,
+      "sha256": "2179bb19f335b4fcacd0994ad2ccfdac6840deff09c7889debfe9dbb5b88a3e6",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2179bb19f335b4fcacd0994ad2ccfdac6840deff09c7889debfe9dbb5b88a3e6.gz",
+      "encoding": "gzip",
+      "storedSize": 36447
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Private.CoreLib.dll",
+      "size": 16033576,
+      "sha256": "1125acc8106c43fc8bad2d203c4c4485df6182d292846c2fff415c1040c54678",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1125acc8106c43fc8bad2d203c4c4485df6182d292846c2fff415c1040c54678.gz",
+      "encoding": "gzip",
+      "storedSize": 6854512
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Private.DataContractSerialization.dll",
+      "size": 2062120,
+      "sha256": "8c07a5333c4e938cad8ac8f24b5965121bc0622442a352cbe81c58f17c2349a8",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8c07a5333c4e938cad8ac8f24b5965121bc0622442a352cbe81c58f17c2349a8.gz",
+      "encoding": "gzip",
+      "storedSize": 922894
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Private.Uri.dll",
+      "size": 255824,
+      "sha256": "b15c84d2120e1ec9612c66ba59bc3d7e67d841e2bce7b7d0478cb212537539b4",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b15c84d2120e1ec9612c66ba59bc3d7e67d841e2bce7b7d0478cb212537539b4.gz",
+      "encoding": "gzip",
+      "storedSize": 135042
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Private.Xml.dll",
+      "size": 7788328,
+      "sha256": "d71e72a7a9de324352edd281a46466b51bd0bdd2831b1573f8d3bae8bd2dd4a6",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d71e72a7a9de324352edd281a46466b51bd0bdd2831b1573f8d3bae8bd2dd4a6.gz",
+      "encoding": "gzip",
+      "storedSize": 3542751
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Private.Xml.Linq.dll",
+      "size": 390952,
+      "sha256": "c832b73de9783e6929ca5ff4863fc313e13ef7cfb5965c52587c4f77f6e037a7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c832b73de9783e6929ca5ff4863fc313e13ef7cfb5965c52587c4f77f6e037a7.gz",
+      "encoding": "gzip",
+      "storedSize": 190444
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.DispatchProxy.dll",
+      "size": 75600,
+      "sha256": "bf93a361c0bba8497889c9f7713add5968ba39394f9e6bda27e86294c6c43560",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/bf93a361c0bba8497889c9f7713add5968ba39394f9e6bda27e86294c6c43560.gz",
+      "encoding": "gzip",
+      "storedSize": 36980
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.dll",
+      "size": 16168,
+      "sha256": "95059346d6271dd6d0322cc321e5fb8cceab662f550c67aee7615059e41739bb",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/95059346d6271dd6d0322cc321e5fb8cceab662f550c67aee7615059e41739bb.gz",
+      "encoding": "gzip",
+      "storedSize": 9615
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.Emit.dll",
+      "size": 309032,
+      "sha256": "09059981bbeea0fdc5df589be5d7e3937d57e22bec4d78ceb492c587926fc238",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/09059981bbeea0fdc5df589be5d7e3937d57e22bec4d78ceb492c587926fc238.gz",
+      "encoding": "gzip",
+      "storedSize": 150770
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.Emit.ILGeneration.dll",
+      "size": 15656,
+      "sha256": "6b42ddd05b0ca1c7342d73ea9f401fe588044215d65c67b756deb780f0894a26",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6b42ddd05b0ca1c7342d73ea9f401fe588044215d65c67b756deb780f0894a26.gz",
+      "encoding": "gzip",
+      "storedSize": 9403
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.Emit.Lightweight.dll",
+      "size": 15656,
+      "sha256": "d2724a2b7b46146877ec1f6e400c49ea05f84bdd31f3bba52ae139ee68a4f779",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d2724a2b7b46146877ec1f6e400c49ea05f84bdd31f3bba52ae139ee68a4f779.gz",
+      "encoding": "gzip",
+      "storedSize": 9358
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.Extensions.dll",
+      "size": 15144,
+      "sha256": "ceb1b81e1eb488d87bd43d16dc54450b2a78e0b653c44c988aae2a20abc162bc",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ceb1b81e1eb488d87bd43d16dc54450b2a78e0b653c44c988aae2a20abc162bc.gz",
+      "encoding": "gzip",
+      "storedSize": 9271
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.Metadata.dll",
+      "size": 1156904,
+      "sha256": "82973e772017944a0548e445f30757595d95fe99e1f5c4a446df8c4db04b1c18",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/82973e772017944a0548e445f30757595d95fe99e1f5c4a446df8c4db04b1c18.gz",
+      "encoding": "gzip",
+      "storedSize": 519311
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.Primitives.dll",
+      "size": 15656,
+      "sha256": "c2bbd885d03da5e880667c228ac1f56a5f3a72ea37d43f010ada000adc33da28",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c2bbd885d03da5e880667c228ac1f56a5f3a72ea37d43f010ada000adc33da28.gz",
+      "encoding": "gzip",
+      "storedSize": 9511
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Reflection.TypeExtensions.dll",
+      "size": 42792,
+      "sha256": "7cac73ed746ce05a4a2f1e61dd52d41322ecc6ba84cfec463380f49487031459",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7cac73ed746ce05a4a2f1e61dd52d41322ecc6ba84cfec463380f49487031459.gz",
+      "encoding": "gzip",
+      "storedSize": 16756
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Resources.Reader.dll",
+      "size": 15144,
+      "sha256": "20bdb5d302b5e28f6042c9f281cfa3ae2f2358544cc40783052fe5abf6aa859b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/20bdb5d302b5e28f6042c9f281cfa3ae2f2358544cc40783052fe5abf6aa859b.gz",
+      "encoding": "gzip",
+      "storedSize": 9242
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Resources.ResourceManager.dll",
+      "size": 15696,
+      "sha256": "f709eb5cf16e26679782784c428825019785fcc7085562092425d4999bece03d",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f709eb5cf16e26679782784c428825019785fcc7085562092425d4999bece03d.gz",
+      "encoding": "gzip",
+      "storedSize": 9400
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Resources.Writer.dll",
+      "size": 50984,
+      "sha256": "684836486b9ba2817efa3099118860d259fd16db0c4c0533d42cad8c6c165b62",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/684836486b9ba2817efa3099118860d259fd16db0c4c0533d42cad8c6c165b62.gz",
+      "encoding": "gzip",
+      "storedSize": 23705
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 15184,
+      "sha256": "6e685ec0477b21a688cd38bfcafc673888cdf186c99df3c96fab352e96d6fdc8",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6e685ec0477b21a688cd38bfcafc673888cdf186c99df3c96fab352e96d6fdc8.gz",
+      "encoding": "gzip",
+      "storedSize": 9269
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.CompilerServices.VisualC.dll",
+      "size": 30504,
+      "sha256": "5fd85d3d7b47a921bdf48bf938c6615a49a4a3d493e1ea199f1b997c709618f4",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/5fd85d3d7b47a921bdf48bf938c6615a49a4a3d493e1ea199f1b997c709618f4.gz",
+      "encoding": "gzip",
+      "storedSize": 11010
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.dll",
+      "size": 44840,
+      "sha256": "76be53624f64b23d0249dfa0bbe85390086de7c44bfd490642ea86c6faaf44af",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/76be53624f64b23d0249dfa0bbe85390086de7c44bfd490642ea86c6faaf44af.gz",
+      "encoding": "gzip",
+      "storedSize": 18337
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Extensions.dll",
+      "size": 17704,
+      "sha256": "3d7b517d4fd89ee58c53e0f642cc9be42e7a8669b51a85e861dafe118067cbfd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3d7b517d4fd89ee58c53e0f642cc9be42e7a8669b51a85e861dafe118067cbfd.gz",
+      "encoding": "gzip",
+      "storedSize": 10182
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Handles.dll",
+      "size": 15656,
+      "sha256": "985457a3e6a67e96a445ee0fb69b2d58bcdadc4c964253fb63e2d5061a36b050",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/985457a3e6a67e96a445ee0fb69b2d58bcdadc4c964253fb63e2d5061a36b050.gz",
+      "encoding": "gzip",
+      "storedSize": 9336
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.InteropServices.dll",
+      "size": 112464,
+      "sha256": "e5eb1679f3579c9141e2bb9dbdce62624a623f38d299805cc1de07bacd21841f",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e5eb1679f3579c9141e2bb9dbdce62624a623f38d299805cc1de07bacd21841f.gz",
+      "encoding": "gzip",
+      "storedSize": 53063
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.InteropServices.JavaScript.dll",
+      "size": 50984,
+      "sha256": "5ba32bcde2d72362db2d6e02763ece79fa35bc878b50493e956ce594307e997f",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/5ba32bcde2d72362db2d6e02763ece79fa35bc878b50493e956ce594307e997f.gz",
+      "encoding": "gzip",
+      "storedSize": 18513
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "size": 15656,
+      "sha256": "c26d9f94329422bd000f28f6c65fdc162bf9397a6d29e418a189d4ca49c5c3ec",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c26d9f94329422bd000f28f6c65fdc162bf9397a6d29e418a189d4ca49c5c3ec.gz",
+      "encoding": "gzip",
+      "storedSize": 9284
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Intrinsics.dll",
+      "size": 17192,
+      "sha256": "b07694ec91f3a200acf0f8b37c6ce5fcf05126a9198ae156d839fa5ca8439dc5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b07694ec91f3a200acf0f8b37c6ce5fcf05126a9198ae156d839fa5ca8439dc5.gz",
+      "encoding": "gzip",
+      "storedSize": 9996
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Loader.dll",
+      "size": 15656,
+      "sha256": "9b9b2a4f0358d9146e76178ddb87d019be380c78baa7dac853493d45df089f03",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/9b9b2a4f0358d9146e76178ddb87d019be380c78baa7dac853493d45df089f03.gz",
+      "encoding": "gzip",
+      "storedSize": 9458
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Numerics.dll",
+      "size": 354128,
+      "sha256": "8ac94fb810c092a9297a903762e79a75ae07d7229d0721540c391f86d3d5d220",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8ac94fb810c092a9297a903762e79a75ae07d7229d0721540c391f86d3d5d220.gz",
+      "encoding": "gzip",
+      "storedSize": 176823
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Serialization.dll",
+      "size": 17192,
+      "sha256": "d565fc261ca98cbd14833821f777860291e8a0f775de7aee91778a9f6647f6f4",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d565fc261ca98cbd14833821f777860291e8a0f775de7aee91778a9f6647f6f4.gz",
+      "encoding": "gzip",
+      "storedSize": 9693
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Serialization.Formatters.dll",
+      "size": 124712,
+      "sha256": "5e8e957c6b7a63132555ede5bcf5fe6a59934c83300e28074ec6e9845ecdd17f",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/5e8e957c6b7a63132555ede5bcf5fe6a59934c83300e28074ec6e9845ecdd17f.gz",
+      "encoding": "gzip",
+      "storedSize": 61113
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Serialization.Json.dll",
+      "size": 15656,
+      "sha256": "2fd71e3545dab4fc89b3fe54d13a1142f26a0cf187ebe375b3f7fa210fcb2596",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2fd71e3545dab4fc89b3fe54d13a1142f26a0cf187ebe375b3f7fa210fcb2596.gz",
+      "encoding": "gzip",
+      "storedSize": 9371
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Serialization.Primitives.dll",
+      "size": 38696,
+      "sha256": "f96093940e64d8eead98c86de9773d3c9d12c2b033bc6b1312ac88398303fdf3",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f96093940e64d8eead98c86de9773d3c9d12c2b033bc6b1312ac88398303fdf3.gz",
+      "encoding": "gzip",
+      "storedSize": 15542
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Runtime.Serialization.Xml.dll",
+      "size": 16680,
+      "sha256": "eedb66ea2cd1a26cc45a46d6631209ccbec959af82208872a93b3ae52f189222",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/eedb66ea2cd1a26cc45a46d6631209ccbec959af82208872a93b3ae52f189222.gz",
+      "encoding": "gzip",
+      "storedSize": 9717
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.AccessControl.dll",
+      "size": 227112,
+      "sha256": "cdc304f9ddb32023adb8db8953e56711c9b64462e4341d0b62e87ccd19dc7b10",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/cdc304f9ddb32023adb8db8953e56711c9b64462e4341d0b62e87ccd19dc7b10.gz",
+      "encoding": "gzip",
+      "storedSize": 111408
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Claims.dll",
+      "size": 100176,
+      "sha256": "c53c8a7e95d8296f951872fdd2e6334d11c20bffd4322f1a088773bf9dcaa3c2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c53c8a7e95d8296f951872fdd2e6334d11c20bffd4322f1a088773bf9dcaa3c2.gz",
+      "encoding": "gzip",
+      "storedSize": 45603
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.Algorithms.dll",
+      "size": 17232,
+      "sha256": "eb99ae7dbe058a1b015aba6769ce1f65155b7ff51ff9a7203fcf6d7cdea5fef7",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/eb99ae7dbe058a1b015aba6769ce1f65155b7ff51ff9a7203fcf6d7cdea5fef7.gz",
+      "encoding": "gzip",
+      "storedSize": 9905
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.Cng.dll",
+      "size": 16168,
+      "sha256": "7319f97896d92a7d0729cf28dc6c4d1f797c1520b656ee01a780eec726ec2c16",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7319f97896d92a7d0729cf28dc6c4d1f797c1520b656ee01a780eec726ec2c16.gz",
+      "encoding": "gzip",
+      "storedSize": 9620
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.Csp.dll",
+      "size": 16208,
+      "sha256": "4002af141e9cb29875b677841adf64a9681e5672c2595492dcbc161460d4e121",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/4002af141e9cb29875b677841adf64a9681e5672c2595492dcbc161460d4e121.gz",
+      "encoding": "gzip",
+      "storedSize": 9500
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.dll",
+      "size": 2549544,
+      "sha256": "e0a839a540e47343b53a936b32d91599a3470005228d50fd0b896f8bbdcc65b0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e0a839a540e47343b53a936b32d91599a3470005228d50fd0b896f8bbdcc65b0.gz",
+      "encoding": "gzip",
+      "storedSize": 1122935
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.Encoding.dll",
+      "size": 15656,
+      "sha256": "994494aec7760f40fade2264aa7c13eebae36360f0b1399a7134bb19c9d58fda",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/994494aec7760f40fade2264aa7c13eebae36360f0b1399a7134bb19c9d58fda.gz",
+      "encoding": "gzip",
+      "storedSize": 9402
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.OpenSsl.dll",
+      "size": 15656,
+      "sha256": "1a8902bbad1b577a98bec62a8472105dc1e9a253e390f69fbe3d167e93206968",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1a8902bbad1b577a98bec62a8472105dc1e9a253e390f69fbe3d167e93206968.gz",
+      "encoding": "gzip",
+      "storedSize": 9343
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.Primitives.dll",
+      "size": 15656,
+      "sha256": "194cccea9354bb248e44c954b5373f9069163f8f21524b3ee4b3185fe436bc15",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/194cccea9354bb248e44c954b5373f9069163f8f21524b3ee4b3185fe436bc15.gz",
+      "encoding": "gzip",
+      "storedSize": 9483
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Cryptography.X509Certificates.dll",
+      "size": 16680,
+      "sha256": "7439c3b90bc2ee49a9275b28ed29052b4d48b45999ac1b7d25593033b1bb8dd6",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7439c3b90bc2ee49a9275b28ed29052b4d48b45999ac1b7d25593033b1bb8dd6.gz",
+      "encoding": "gzip",
+      "storedSize": 9832
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.dll",
+      "size": 18256,
+      "sha256": "d8efd304765e859369698efef9b3ca707defa8e142721fe5605d7a2de7d38375",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d8efd304765e859369698efef9b3ca707defa8e142721fe5605d7a2de7d38375.gz",
+      "encoding": "gzip",
+      "storedSize": 10152
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Principal.dll",
+      "size": 15144,
+      "sha256": "1d3e351058be3a33214b23b308fe57f78cd6fd4d8fad448fc84cbbe7376129f9",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1d3e351058be3a33214b23b308fe57f78cd6fd4d8fad448fc84cbbe7376129f9.gz",
+      "encoding": "gzip",
+      "storedSize": 9300
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.Principal.Windows.dll",
+      "size": 178000,
+      "sha256": "2311a3f92971de918943573dfb66e04e25c1d543663951eb24e8eb1a0dcd4251",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2311a3f92971de918943573dfb66e04e25c1d543663951eb24e8eb1a0dcd4251.gz",
+      "encoding": "gzip",
+      "storedSize": 90210
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Security.SecureString.dll",
+      "size": 15696,
+      "sha256": "73aac97072b7deefa4de9647bf822162224f1452ad467841b989ff89d4d94595",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/73aac97072b7deefa4de9647bf822162224f1452ad467841b989ff89d4d94595.gz",
+      "encoding": "gzip",
+      "storedSize": 9341
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ServiceModel.Web.dll",
+      "size": 16680,
+      "sha256": "ce91013ee3a9a9d69a85e258f7749e6ece488295d7cb66f7c1079f2e8678fc5e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ce91013ee3a9a9d69a85e258f7749e6ece488295d7cb66f7c1079f2e8678fc5e.gz",
+      "encoding": "gzip",
+      "storedSize": 9697
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ServiceProcess.dll",
+      "size": 15696,
+      "sha256": "63fc498c9d04e3c4345dfdb8016ad0639d54562dd7d8c707c072792c854df944",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/63fc498c9d04e3c4345dfdb8016ad0639d54562dd7d8c707c072792c854df944.gz",
+      "encoding": "gzip",
+      "storedSize": 9455
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Text.Encoding.CodePages.dll",
+      "size": 862032,
+      "sha256": "226e216e33c94ef7594bdffe670ba4dc5907151c113cb41ac9e9d570227e1765",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/226e216e33c94ef7594bdffe670ba4dc5907151c113cb41ac9e9d570227e1765.gz",
+      "encoding": "gzip",
+      "storedSize": 591567
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Text.Encoding.dll",
+      "size": 15696,
+      "sha256": "5e347db6b4f9b2746d50e1ac85be2d9cc7dc4038fde98ac4295bc7030c83cda9",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/5e347db6b4f9b2746d50e1ac85be2d9cc7dc4038fde98ac4295bc7030c83cda9.gz",
+      "encoding": "gzip",
+      "storedSize": 9382
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Text.Encoding.Extensions.dll",
+      "size": 15656,
+      "sha256": "8f51b9535db64fe027a40d6076200b1a6b0889bf05f62bb8e68c3eb083c7f113",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8f51b9535db64fe027a40d6076200b1a6b0889bf05f62bb8e68c3eb083c7f113.gz",
+      "encoding": "gzip",
+      "storedSize": 9385
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Text.Encodings.Web.dll",
+      "size": 124752,
+      "sha256": "d20431f20d992e71a4e82e5f25c822474e2f4097d8527972d3d78ea1f26e47c3",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d20431f20d992e71a4e82e5f25c822474e2f4097d8527972d3d78ea1f26e47c3.gz",
+      "encoding": "gzip",
+      "storedSize": 56035
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Text.Json.dll",
+      "size": 1890128,
+      "sha256": "fa99f413be21ed5f484a09093fe5f0beba7de3062cf9cc9f847dbf8108dba55a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/fa99f413be21ed5f484a09093fe5f0beba7de3062cf9cc9f847dbf8108dba55a.gz",
+      "encoding": "gzip",
+      "storedSize": 824134
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Text.RegularExpressions.dll",
+      "size": 1034064,
+      "sha256": "060bcc88a688e687ff1404b83b5fb5cf17e19ec57f33d5b8a48ab494da83c134",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/060bcc88a688e687ff1404b83b5fb5cf17e19ec57f33d5b8a48ab494da83c134.gz",
+      "encoding": "gzip",
+      "storedSize": 511133
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.AccessControl.dll",
+      "size": 75560,
+      "sha256": "66d618b5522b3e4f7a3c7f2bd872fc378fa6f9bbdca3636854eb1a8cb948e631",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/66d618b5522b3e4f7a3c7f2bd872fc378fa6f9bbdca3636854eb1a8cb948e631.gz",
+      "encoding": "gzip",
+      "storedSize": 30774
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Channels.dll",
+      "size": 157480,
+      "sha256": "afc5deb3c32b3f64bced2025d0b01b316d41b691ebc6ccb1a2ec445ad4c15e39",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/afc5deb3c32b3f64bced2025d0b01b316d41b691ebc6ccb1a2ec445ad4c15e39.gz",
+      "encoding": "gzip",
+      "storedSize": 76712
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.dll",
+      "size": 83792,
+      "sha256": "6c32ed1bf8067e4169e8feddd15e6489b89d19d1c7aae1520a551b57745d0a60",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6c32ed1bf8067e4169e8feddd15e6489b89d19d1c7aae1520a551b57745d0a60.gz",
+      "encoding": "gzip",
+      "storedSize": 40948
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Overlapped.dll",
+      "size": 15696,
+      "sha256": "89fde15f8e520c4bcbc6cbfdceba2baed8670cdf52399a4cd7a21c6efb276c1a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/89fde15f8e520c4bcbc6cbfdceba2baed8670cdf52399a4cd7a21c6efb276c1a.gz",
+      "encoding": "gzip",
+      "storedSize": 9458
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Tasks.Dataflow.dll",
+      "size": 472872,
+      "sha256": "a895b0c73d3a1afc4d89c1d9e445ed447af12864c25aad2c4cb7398ff50aa934",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a895b0c73d3a1afc4d89c1d9e445ed447af12864c25aad2c4cb7398ff50aa934.gz",
+      "encoding": "gzip",
+      "storedSize": 223462
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Tasks.dll",
+      "size": 16680,
+      "sha256": "f80b21f7dae04377b73945456cabe25e2ab1f4b564095aed546c2aa571644567",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f80b21f7dae04377b73945456cabe25e2ab1f4b564095aed546c2aa571644567.gz",
+      "encoding": "gzip",
+      "storedSize": 9721
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Tasks.Extensions.dll",
+      "size": 15696,
+      "sha256": "f148e3a1414b7c2763ae21529ad79ad759f7cfd3c885256b64b0d2209dec2613",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f148e3a1414b7c2763ae21529ad79ad759f7cfd3c885256b64b0d2209dec2613.gz",
+      "encoding": "gzip",
+      "storedSize": 9457
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Tasks.Parallel.dll",
+      "size": 132904,
+      "sha256": "6fa359bdbebb56be96339f244ed41658afcead5e010074da470df1115d1e7699",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6fa359bdbebb56be96339f244ed41658afcead5e010074da470df1115d1e7699.gz",
+      "encoding": "gzip",
+      "storedSize": 62131
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Thread.dll",
+      "size": 15696,
+      "sha256": "ce71949bb1ea67b686e799128582015ebf8758f1107e59e43f342ece3f662930",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ce71949bb1ea67b686e799128582015ebf8758f1107e59e43f342ece3f662930.gz",
+      "encoding": "gzip",
+      "storedSize": 9498
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.ThreadPool.dll",
+      "size": 15656,
+      "sha256": "58fbc6c4b9c72087152fd0f0670a527098c00b0c19ba8d0979d3ca5ce07c6936",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/58fbc6c4b9c72087152fd0f0670a527098c00b0c19ba8d0979d3ca5ce07c6936.gz",
+      "encoding": "gzip",
+      "storedSize": 9383
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Threading.Timer.dll",
+      "size": 15144,
+      "sha256": "9e4620846572f49aeb476aa99405071b4bbd0df4323e4e232787ed73642b1ee5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/9e4620846572f49aeb476aa99405071b4bbd0df4323e4e232787ed73642b1ee5.gz",
+      "encoding": "gzip",
+      "storedSize": 9263
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Transactions.dll",
+      "size": 16720,
+      "sha256": "56abfca0350c111d077b3d86a2469ea3da4fccc1871f7c51a8b4fdb664bb0ede",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/56abfca0350c111d077b3d86a2469ea3da4fccc1871f7c51a8b4fdb664bb0ede.gz",
+      "encoding": "gzip",
+      "storedSize": 9561
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Transactions.Local.dll",
+      "size": 640808,
+      "sha256": "8d0283a311a16333ffb6f966d9765e4d8b866777ad99291a93b30db349a15bc4",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8d0283a311a16333ffb6f966d9765e4d8b866777ad99291a93b30db349a15bc4.gz",
+      "encoding": "gzip",
+      "storedSize": 268426
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.ValueTuple.dll",
+      "size": 15696,
+      "sha256": "07a5347f6a597e5e0d72109efa1a525697e8c3f74fb0029005500f8ebbf9187a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/07a5347f6a597e5e0d72109efa1a525697e8c3f74fb0029005500f8ebbf9187a.gz",
+      "encoding": "gzip",
+      "storedSize": 9333
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Web.dll",
+      "size": 15144,
+      "sha256": "bc260b3db247ad9a6e4a82a275da85c3691a41272cc745cb7eaefcf1f31cc817",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/bc260b3db247ad9a6e4a82a275da85c3691a41272cc745cb7eaefcf1f31cc817.gz",
+      "encoding": "gzip",
+      "storedSize": 9240
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Web.HttpUtility.dll",
+      "size": 63272,
+      "sha256": "2cedef51b0a2c2b84240583339ecf2422c650e3388aa46f3494160b93b673887",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2cedef51b0a2c2b84240583339ecf2422c650e3388aa46f3494160b93b673887.gz",
+      "encoding": "gzip",
+      "storedSize": 30959
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Windows.dll",
+      "size": 15696,
+      "sha256": "716eee98ceee87d38f0b301224462f8442aa793f4b1b9c3ffac315753320ab37",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/716eee98ceee87d38f0b301224462f8442aa793f4b1b9c3ffac315753320ab37.gz",
+      "encoding": "gzip",
+      "storedSize": 9424
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.dll",
+      "size": 23376,
+      "sha256": "277a84ba155fe7808a514f32694a8157ec9f0eeeef00ef9643e5250004054ff0",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/277a84ba155fe7808a514f32694a8157ec9f0eeeef00ef9643e5250004054ff0.gz",
+      "encoding": "gzip",
+      "storedSize": 11539
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.Linq.dll",
+      "size": 15696,
+      "sha256": "ae04903b25717fa4695e7e63489091f0d461e791e0bd264c6c85250d668f540d",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ae04903b25717fa4695e7e63489091f0d461e791e0bd264c6c85250d668f540d.gz",
+      "encoding": "gzip",
+      "storedSize": 9399
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.ReaderWriter.dll",
+      "size": 21840,
+      "sha256": "8e48fed4d12bcffff01e8059caafb564697275797d2f5ec6823fdd82b87fe938",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8e48fed4d12bcffff01e8059caafb564697275797d2f5ec6823fdd82b87fe938.gz",
+      "encoding": "gzip",
+      "storedSize": 11275
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.Serialization.dll",
+      "size": 16208,
+      "sha256": "489694401c60905cb6dca8ef0bf738cb609cd45b337126a01c825b913086ba43",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/489694401c60905cb6dca8ef0bf738cb609cd45b337126a01c825b913086ba43.gz",
+      "encoding": "gzip",
+      "storedSize": 9416
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.XDocument.dll",
+      "size": 15696,
+      "sha256": "3ff858607de5146051498a7124ef983bea280d86e165f993516c6c26af81cfb5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/3ff858607de5146051498a7124ef983bea280d86e165f993516c6c26af81cfb5.gz",
+      "encoding": "gzip",
+      "storedSize": 9559
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.XmlDocument.dll",
+      "size": 15656,
+      "sha256": "a50b9b3a03596e36e73e7a7d54f4d018e8dcfaa7fe79e8cf900af8838ef3ec36",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a50b9b3a03596e36e73e7a7d54f4d018e8dcfaa7fe79e8cf900af8838ef3ec36.gz",
+      "encoding": "gzip",
+      "storedSize": 9503
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.XmlSerializer.dll",
+      "size": 17744,
+      "sha256": "0b7d057c2b5b2272e8d4096a755edfd96f3cf03ab9aaa3fef54b462bf48d517e",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0b7d057c2b5b2272e8d4096a755edfd96f3cf03ab9aaa3fef54b462bf48d517e.gz",
+      "encoding": "gzip",
+      "storedSize": 10041
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.XPath.dll",
+      "size": 15656,
+      "sha256": "c817b11c58d95fa942fbc62a4cfa8219e16dafa5641eb004cb2be424028ed5d8",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c817b11c58d95fa942fbc62a4cfa8219e16dafa5641eb004cb2be424028ed5d8.gz",
+      "encoding": "gzip",
+      "storedSize": 9456
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/System.Xml.XPath.XDocument.dll",
+      "size": 30504,
+      "sha256": "5bcd27a7e93515b745993f6dda51391033883cb8a1a8a2e3dad5caed3548f0da",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/5bcd27a7e93515b745993f6dda51391033883cb8a1a8a2e3dad5caed3548f0da.gz",
+      "encoding": "gzip",
+      "storedSize": 10119
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Core.dll",
+      "size": 337920,
+      "sha256": "9239929d379500a158744457e4fdfa29a39880fc0a02dee18e8e461bc9faf6dd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/9239929d379500a158744457e4fdfa29a39880fc0a02dee18e8e461bc9faf6dd.gz",
+      "encoding": "gzip",
+      "storedSize": 111060
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.deps.json",
+      "size": 34134,
+      "sha256": "c5e1a2a7bbaffafc3f3c0d314ac260a43e4ad30081e1273f6afde423a5463bc8",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c5e1a2a7bbaffafc3f3c0d314ac260a43e4ad30081e1273f6afde423a5463bc8.gz",
+      "encoding": "gzip",
+      "storedSize": 2981
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.dll",
+      "size": 1684480,
+      "sha256": "e6ff89903e2309892fee10ef996dc2ac4a34bad559e703691e97560f723c8166",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e6ff89903e2309892fee10ef996dc2ac4a34bad559e703691e97560f723c8166.gz",
+      "encoding": "gzip",
+      "storedSize": 616722
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.runtimeconfig.json",
+      "size": 453,
+      "sha256": "7aa007a46650273c92b2ca1c3822ecef1e87ec5e830c113db7efbf97a974bd11",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7aa007a46650273c92b2ca1c3822ecef1e87ec5e830c113db7efbf97a974bd11.gz",
+      "encoding": "gzip",
+      "storedSize": 272
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Net.dll",
+      "size": 442880,
+      "sha256": "81fe4eb031e2b5df5e6ed296e8048e8131174abcb3731890e926e6a6c3a729b5",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/81fe4eb031e2b5df5e6ed296e8048e8131174abcb3731890e926e6a6c3a729b5.gz",
+      "encoding": "gzip",
+      "storedSize": 158010
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Session.dll",
+      "size": 696320,
+      "sha256": "682115c6475fd0d02d885330643eaecf600cc819c360beac166d9cb3fbecfde2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/682115c6475fd0d02d885330643eaecf600cc819c360beac166d9cb3fbecfde2.gz",
+      "encoding": "gzip",
+      "storedSize": 298433
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Sim.dll",
+      "size": 4195840,
+      "sha256": "1808219791463caa091e7ff4696d179ee7aca1376b3658768dd814a6a8b1b106",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/1808219791463caa091e7ff4696d179ee7aca1376b3658768dd814a6a8b1b106.gz",
+      "encoding": "gzip",
+      "storedSize": 1177683
+    },
+    {
+      "path": "data_ViceMC.Game_windows_x86_64/WindowsBase.dll",
+      "size": 16208,
+      "sha256": "0ec46a38f29a234b9a4d0ae9364c8322f661a47c831c5b948f2787b7ca12dbbd",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0ec46a38f29a234b9a4d0ae9364c8322f661a47c831c5b948f2787b7ca12dbbd.gz",
+      "encoding": "gzip",
+      "storedSize": 9673
+    },
+    {
+      "path": "version.txt",
+      "size": 19,
+      "sha256": "68204344466a67a2f734018b128ee793480e936c7b88f91a047f40bbd309c243",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/68204344466a67a2f734018b128ee793480e936c7b88f91a047f40bbd309c243"
+    },
+    {
+      "path": "ViceMC.exe",
+      "size": 109513728,
+      "sha256": "16e0ec3cfd398b938f514de95ff2474b532b5061ada78f92226dba3f7584d55d",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/16e0ec3cfd398b938f514de95ff2474b532b5061ada78f92226dba3f7584d55d.gz",
+      "encoding": "gzip",
+      "storedSize": 39352740
+    },
+    {
+      "path": "ViceMC.pck",
+      "size": 67527580,
+      "sha256": "19a14e32de2d7a5699dd43474cefea44ecf2973db91c1f1fbc5a80e1625cd58b",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/19a14e32de2d7a5699dd43474cefea44ecf2973db91c1f1fbc5a80e1625cd58b"
+    }
+  ]
+}
