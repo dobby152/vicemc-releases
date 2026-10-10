@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "product": "ViceMC",
-  "version": "2026.10.12",
-  "protocol": 32,
-  "releasedAt": "2026-10-10T11:58:48.2986624+00:00",
-  "notes": "Fixes: excavator/machine seat disconnect, helicopter flare/braking, oversized far-tree blocks, artillery smoke and scorch, haze starts farther away",
+  "version": "2026.10.13",
+  "protocol": 33,
+  "releasedAt": "2026-10-10T14:59:28.0930168+00:00",
+  "notes": "Baked 256 km world map (worldgen v7) with provinces: new world type \u0027Baked world\u0027, claim provinces in strategic view (Ctrl\u002Bclick). Smooth chunk generation. Trains, zoning, chat, item drops, menu/identity. Protocol 33 - create a NEW world for v7.",
   "exe": "ViceMC.exe",
   "servers": [
     {
       "name": "Hynex server",
       "address": "threw-balcony.tun.ply.gg:9669",
-      "protocol": 32
+      "protocol": 33
     }
   ],
   "files": [
@@ -1552,11 +1552,11 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Core.dll",
-      "size": 358912,
-      "sha256": "d7b7b3944af56d2784455299cc00895c90e44fa9d688751a2b6d63c19c1dfda0",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d7b7b3944af56d2784455299cc00895c90e44fa9d688751a2b6d63c19c1dfda0.gz",
+      "size": 359936,
+      "sha256": "8e5e6b6fa9bbf79c494776c5d0c0e745179ea43d52f49767b5d3803492cf84f8",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8e5e6b6fa9bbf79c494776c5d0c0e745179ea43d52f49767b5d3803492cf84f8.gz",
       "encoding": "gzip",
-      "storedSize": 118001
+      "storedSize": 118283
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.deps.json",
@@ -1568,11 +1568,11 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.dll",
-      "size": 2234368,
-      "sha256": "bb6a9771a45e5bc24f20144ae490b9a60511d27c786169189c993e01687ca76c",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/bb6a9771a45e5bc24f20144ae490b9a60511d27c786169189c993e01687ca76c.gz",
+      "size": 2244608,
+      "sha256": "a776cefc4e51c652ca4b55ad6ccc5e406d2cbe97d2dad62c02efc8cc60ce568d",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/a776cefc4e51c652ca4b55ad6ccc5e406d2cbe97d2dad62c02efc8cc60ce568d.gz",
       "encoding": "gzip",
-      "storedSize": 818837
+      "storedSize": 823542
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.runtimeconfig.json",
@@ -1584,27 +1584,27 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Net.dll",
-      "size": 525312,
-      "sha256": "e5ac3b1b61918f682e7c2a2832efdf9e8989ce22ba5c8de27af65ac22ce78747",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/e5ac3b1b61918f682e7c2a2832efdf9e8989ce22ba5c8de27af65ac22ce78747.gz",
+      "size": 528384,
+      "sha256": "0be947e9aba4d1d1689fda85795f105b05d06e039069fb497cbee54059c63333",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0be947e9aba4d1d1689fda85795f105b05d06e039069fb497cbee54059c63333.gz",
       "encoding": "gzip",
-      "storedSize": 186279
+      "storedSize": 187440
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Session.dll",
-      "size": 875008,
-      "sha256": "dcfe24c67a4639104a47d041ca9bc98436f0eff65816133cd86b375edb3212d0",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/dcfe24c67a4639104a47d041ca9bc98436f0eff65816133cd86b375edb3212d0.gz",
+      "size": 881152,
+      "sha256": "f458337bed3a935e693716ddf1fb927d58cc3a2a05f6fcd7db7fcc0d60a0726a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f458337bed3a935e693716ddf1fb927d58cc3a2a05f6fcd7db7fcc0d60a0726a.gz",
       "encoding": "gzip",
-      "storedSize": 364132
+      "storedSize": 366984
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Sim.dll",
-      "size": 5255680,
-      "sha256": "188462bbd35f800116375c4df67ca3791e6417f0c61fc314050c1a2925d005ab",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/188462bbd35f800116375c4df67ca3791e6417f0c61fc314050c1a2925d005ab.gz",
+      "size": 5315584,
+      "sha256": "f18b5b7433e5f3fd60f5d2dad70d185b78274c99ea69cf25e39b2ceb92aff402",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f18b5b7433e5f3fd60f5d2dad70d185b78274c99ea69cf25e39b2ceb92aff402.gz",
       "encoding": "gzip",
-      "storedSize": 1567129
+      "storedSize": 1591829
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/WindowsBase.dll",
@@ -1615,10 +1615,66 @@
       "storedSize": 9673
     },
     {
+      "path": "maps/Mainland/climate.vml",
+      "size": 9008980,
+      "sha256": "fd612a8b371f4c7ba2204c6d81f8f2b8019545e5b2c84db00d527652a53c4ed2",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/fd612a8b371f4c7ba2204c6d81f8f2b8019545e5b2c84db00d527652a53c4ed2"
+    },
+    {
+      "path": "maps/Mainland/height.vml",
+      "size": 35895136,
+      "sha256": "33932d24990115f10f73f5e7613125219a220614cf03824c89db8641386ebf34",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/33932d24990115f10f73f5e7613125219a220614cf03824c89db8641386ebf34"
+    },
+    {
+      "path": "maps/Mainland/hydro.bin",
+      "size": 5082419,
+      "sha256": "223b1611c233a1a722bc99385d6c3c534123a177762d264aa677fb4d3e409341",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/223b1611c233a1a722bc99385d6c3c534123a177762d264aa677fb4d3e409341"
+    },
+    {
+      "path": "maps/Mainland/lakes.vml",
+      "size": 153581,
+      "sha256": "b9356107b608d89e86868a993a6b3b874ec7c4136f595dfaabc9449b1dd01377",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b9356107b608d89e86868a993a6b3b874ec7c4136f595dfaabc9449b1dd01377.gz",
+      "encoding": "gzip",
+      "storedSize": 68853
+    },
+    {
+      "path": "maps/Mainland/manifest.json",
+      "size": 1649,
+      "sha256": "2ff2c123e6ca4620bc1820a8a0f5d16e09490b3529f023f96f01cb0937e73810",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/2ff2c123e6ca4620bc1820a8a0f5d16e09490b3529f023f96f01cb0937e73810.gz",
+      "encoding": "gzip",
+      "storedSize": 762
+    },
+    {
+      "path": "maps/Mainland/provinces.json",
+      "size": 276655,
+      "sha256": "d9fbf5eedac8a748edbc2dc9a30aea8485714e7246d89c2165bdf20b28073e44",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d9fbf5eedac8a748edbc2dc9a30aea8485714e7246d89c2165bdf20b28073e44.gz",
+      "encoding": "gzip",
+      "storedSize": 24820
+    },
+    {
+      "path": "maps/Mainland/provinces.vml",
+      "size": 141302,
+      "sha256": "f59b2b0b234ade47d87ea425650f1a84991ae21d1712a3e41f77257d0a5344ee",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f59b2b0b234ade47d87ea425650f1a84991ae21d1712a3e41f77257d0a5344ee.gz",
+      "encoding": "gzip",
+      "storedSize": 125157
+    },
+    {
+      "path": "maps/Mainland/resources.vml",
+      "size": 295861,
+      "sha256": "6289e595cf1321f54741dc8764b354ba9f3a0f0c120306875afc4dc4ee7d3075",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/6289e595cf1321f54741dc8764b354ba9f3a0f0c120306875afc4dc4ee7d3075"
+    },
+    {
       "path": "version.txt",
       "size": 11,
-      "sha256": "d39874eb8352c8b00efc44fa26a250ba8894a65885d6ee7c8014362c227ca911",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/d39874eb8352c8b00efc44fa26a250ba8894a65885d6ee7c8014362c227ca911"
+      "sha256": "43b20d9c7a3e93ec12a6c91dd441996f425d9ddc4c18a5c196048dfbdad154ea",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/43b20d9c7a3e93ec12a6c91dd441996f425d9ddc4c18a5c196048dfbdad154ea"
     },
     {
       "path": "ViceMC.exe",
@@ -1630,11 +1686,11 @@
     },
     {
       "path": "ViceMC.pck",
-      "size": 69548852,
-      "sha256": "914de3bc31ea59f4570e84ef900c3de18b95206517d3cbe11d7b1963dc404aec",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/914de3bc31ea59f4570e84ef900c3de18b95206517d3cbe11d7b1963dc404aec.gz",
+      "size": 69549136,
+      "sha256": "dfa561bcda6ea454c3a9f5c923e3d279fdf9f0d88d3ee0cbcf82a0c742494c8a",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/dfa561bcda6ea454c3a9f5c923e3d279fdf9f0d88d3ee0cbcf82a0c742494c8a.gz",
       "encoding": "gzip",
-      "storedSize": 63961420
+      "storedSize": 63961824
     }
   ]
 }
