@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "product": "ViceMC",
-  "version": "2026.10.10\u002B2722424",
-  "protocol": 27,
-  "releasedAt": "2026-10-09T23:19:02.9630032+00:00",
-  "notes": "Vlaky (koleje, vlaky, stanice, NPC strojvedouci), strategicky rezim jako Cities Skylines, palivovy system, nova voda, svet v6 (plynule prechody biomu), vzdaleny teren s lesy, skutecne zvuky zvirat a zbrani, kr\u00E1tery a konec odrazu letadel, realisticka strelba. Den trva 24 hodin. Protokol 27.",
+  "version": "2026.10.11",
+  "protocol": 32,
+  "releasedAt": "2026-10-10T10:44:50.6486422+00:00",
+  "notes": "Main menu \u002B world list, player identity, chat, new vehicle and aircraft models, item drops and chests, urban zoning, spline-only roads, strategic UI, biome/worldgen tweaks, faster flight (protocol 32)",
   "exe": "ViceMC.exe",
   "servers": [
     {
       "name": "Hynex server",
       "address": "threw-balcony.tun.ply.gg:9669",
-      "protocol": 27
+      "protocol": 32
     }
   ],
   "files": [
@@ -1552,11 +1552,11 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Core.dll",
-      "size": 342528,
-      "sha256": "8ccb75aae9e88357161af1e70187fa7cdd367e6647a20485e338b9b08a232ad0",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8ccb75aae9e88357161af1e70187fa7cdd367e6647a20485e338b9b08a232ad0.gz",
+      "size": 358912,
+      "sha256": "cf8833327f5fbf5e78efdbc9ee760f159839bd43115a4b50a292c5fb8049f899",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/cf8833327f5fbf5e78efdbc9ee760f159839bd43115a4b50a292c5fb8049f899.gz",
       "encoding": "gzip",
-      "storedSize": 112051
+      "storedSize": 117994
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.deps.json",
@@ -1568,11 +1568,11 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.dll",
-      "size": 1946112,
-      "sha256": "61cb76f66e8fa92cdb54ad4cc435301ee8bbd77cedbda1338b71859faa54b63b",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/61cb76f66e8fa92cdb54ad4cc435301ee8bbd77cedbda1338b71859faa54b63b.gz",
+      "size": 2222080,
+      "sha256": "b4916a61a224f077eedcd7312a09090e2104163e2ed4625c4e8adc6c72af08dc",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/b4916a61a224f077eedcd7312a09090e2104163e2ed4625c4e8adc6c72af08dc.gz",
       "encoding": "gzip",
-      "storedSize": 711503
+      "storedSize": 815437
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Game.runtimeconfig.json",
@@ -1584,27 +1584,27 @@
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Net.dll",
-      "size": 479232,
-      "sha256": "097eed89e958d8e51d8a6adcf44318076751ee73df82222d795d0d647ec87faa",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/097eed89e958d8e51d8a6adcf44318076751ee73df82222d795d0d647ec87faa.gz",
+      "size": 525312,
+      "sha256": "ae44f57d80f0f4357c26bbcbeb906a0e366563c386ceaf1cb89ee4ac34bfa1b1",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/ae44f57d80f0f4357c26bbcbeb906a0e366563c386ceaf1cb89ee4ac34bfa1b1.gz",
       "encoding": "gzip",
-      "storedSize": 169756
+      "storedSize": 186280
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Session.dll",
-      "size": 796672,
-      "sha256": "8ade211f9bd4e1030988122999c44c7297b25c793968232df6343c913c0f7b27",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8ade211f9bd4e1030988122999c44c7297b25c793968232df6343c913c0f7b27.gz",
+      "size": 875008,
+      "sha256": "0f0d2e777f9a9367ede5e7993047e6a11ebaeff981c39342bddef0cb3366ab09",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/0f0d2e777f9a9367ede5e7993047e6a11ebaeff981c39342bddef0cb3366ab09.gz",
       "encoding": "gzip",
-      "storedSize": 330644
+      "storedSize": 364136
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/ViceMC.Sim.dll",
-      "size": 4532224,
-      "sha256": "4a63b80d21ef0ee6b0f4430dc3bf150f8d11b6d8078e5fc7e3cde1b066482fb7",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/4a63b80d21ef0ee6b0f4430dc3bf150f8d11b6d8078e5fc7e3cde1b066482fb7.gz",
+      "size": 5250048,
+      "sha256": "402266586408a66722602b049a6f664fd2acdda2425969dedf22a181e5fd0afa",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/402266586408a66722602b049a6f664fd2acdda2425969dedf22a181e5fd0afa.gz",
       "encoding": "gzip",
-      "storedSize": 1298122
+      "storedSize": 1565327
     },
     {
       "path": "data_ViceMC.Game_windows_x86_64/WindowsBase.dll",
@@ -1616,9 +1616,9 @@
     },
     {
       "path": "version.txt",
-      "size": 19,
-      "sha256": "8cb0eeace3dd5d9e39a214c0f3f99136a476f5a6d12391edf2c0fc7589dab2e6",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/8cb0eeace3dd5d9e39a214c0f3f99136a476f5a6d12391edf2c0fc7589dab2e6"
+      "size": 11,
+      "sha256": "f014452b68374ebdfc4b31375c4444bed4615bcdf1752e3a94844afb99e38473",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/f014452b68374ebdfc4b31375c4444bed4615bcdf1752e3a94844afb99e38473"
     },
     {
       "path": "ViceMC.exe",
@@ -1630,11 +1630,11 @@
     },
     {
       "path": "ViceMC.pck",
-      "size": 69512624,
-      "sha256": "c67d9f6c614180578dfd5da2536b5c49a583638a859988cbeb3f229883f921f9",
-      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/c67d9f6c614180578dfd5da2536b5c49a583638a859988cbeb3f229883f921f9.gz",
+      "size": 69547328,
+      "sha256": "7546b811a4bc0c70800ed1c0dd6cbc5dc6794d5c0807a16c9e6c811a4b5ba266",
+      "url": "https://raw.githubusercontent.com/dobby152/vicemc-releases/main/files/7546b811a4bc0c70800ed1c0dd6cbc5dc6794d5c0807a16c9e6c811a4b5ba266.gz",
       "encoding": "gzip",
-      "storedSize": 63949675
+      "storedSize": 63961338
     }
   ]
 }
